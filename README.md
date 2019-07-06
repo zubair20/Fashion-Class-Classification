@@ -1,6 +1,6 @@
 # Fashion-Class-Classification
 
-This project is an example of Convolutional Neural Networks.
+This project is an implementation of Convolutional Neural Networks.
 
 How to run this code?
 1) Download the notebook file from this github repository.
